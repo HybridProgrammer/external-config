@@ -57,6 +57,7 @@ dependencies {
 
 bootRun {
     jvmArgs('-Dspring.output.ansi.enabled=always')
+    jvmArgs('-Dappname.config.location=/Users/jason/external-config.yml')
 }
 
 
