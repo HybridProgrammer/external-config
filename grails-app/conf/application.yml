@@ -1,3 +1,5 @@
+external.config.type: local
+
 ---
 grails:
     profile: web
